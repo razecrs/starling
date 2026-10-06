@@ -200,6 +200,15 @@ Handlers are synchronous and ordered by default. A slow handler therefore delays
 
 ## Documentation
 
+- [Documentation index](docs/README.md)
+- [Getting started](docs/getting-started.md)
+- [Interactions](docs/interactions.md)
+- [Messages and REST](docs/rest-and-messages.md)
+- [Voice and soundboard](docs/voice.md)
+- [Runtime, gateway, and sharding](docs/runtime.md)
+- [Starlog](docs/starlog.md)
+- [Social SDK](docs/social-sdk.md)
+- [Moving from DiscordGo](docs/migrating-from-discordgo.md)
 - [First bot](examples/firstbot/main.go)
 - [State and Guard](docs/state.md)
 - [StarDB](docs/stardb.md)

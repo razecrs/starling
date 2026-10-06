@@ -22,7 +22,6 @@ should have come first.
 | [coverage.md](coverage.md) | which REST operations starling implements | yes |
 | [gateway-events.md](gateway-events.md) | opcodes, close codes, intents, all 88 dispatch events | hand-written |
 | [game-stats-widgets.md](game-stats-widgets.md) | profile widgets: the identity API, the undocumented widget-config API, layouts and field vocabulary | hand-written |
-| [example-widget-config.json](example-widget-config.json) | a real published widget config, pulled from the live API | captured |
 | research.md | this file | hand-written |
 
 Regenerate the first four with:
